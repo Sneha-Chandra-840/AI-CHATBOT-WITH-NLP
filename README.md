@@ -48,3 +48,6 @@ The chatbot runs an infinite loop using a simple CLI interface. It greets the us
 
 Conclusion:
 This project demonstrates how natural language processing can be effectively used to simulate human conversation. Using NLTK and spaCy, we created a chatbot that understands and responds to user input with reasonable accuracy. It showcases the importance of linguistic preprocessing and vector-based similarity measures in building conversational AI. This project serves as a foundational step toward more advanced and intelligent chatbot systems.
+
+
+"OUTPUT" : ![Image](https://github.com/user-attachments/assets/bf9ef6e9-80ba-425f-9b83-b2dff4be9513)
